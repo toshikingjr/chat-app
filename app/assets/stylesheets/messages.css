@@ -86,7 +86,7 @@
   margin: 10px 0 0 0;
 }
 
-.upper-message{
+.upper-message {
   display: flex;
 }
 
@@ -153,4 +153,8 @@
 
 .hidden {
   display: none;
+}
+
+.field_with_errors{
+  display: contents;
 }
